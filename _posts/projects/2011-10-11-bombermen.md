@@ -1,16 +1,15 @@
 ---
-layout: project_entry
+layout: post
 category: projects
 title: Bombermen
-listImage: /images/projects/bombermen.png
-displayDate: Spring 2011
-meta: Yahoo HackU 2011
-description: 
-  A WebGL multiplayer Bomberman clone running on Node.js/Now.js
-links:
-  - url: http://vimeo.com/30568650
-    name: Video of Gameplay
+image: bombermen.png
+subtitle: Yahoo HackU 2011 Hackathon Project
+subsubtitle: With [Amber Feng](http://www.amberfeng.com/) and [Allen Chen](http://allenschen.com/)
 ---
+Bombermen is a real-time multiplayer browser-based clone of
+[Bomberman](http://en.wikipedia.org/wiki/Bomberman). Amber Feng, Allen Chen, 
+and I made created the game in less than 10 hours at Yahoo HackU 2011.
+
 #Introduction
 Bombermen is a real-time multiplayer game playable in the browser. It is 
 based off of the classic game, 

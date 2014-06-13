@@ -1,0 +1,11 @@
+# Site settings
+title: brandonwang.net
+shorttitle: bw
+email: brandonwang@me.com
+description: "(brandon wang)"
+baseurl: ""
+url: "http://brandonwang.net"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

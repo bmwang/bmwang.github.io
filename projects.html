@@ -1,0 +1,43 @@
+---
+layout: default
+title: Projects
+style: projects
+---
+
+{% for post in site.categories.projects %}
+  <article>
+    <div class="info">
+      <h1>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </h1>
+      {% if post.subtitle %}
+        <h2>{{ post.subtitle | markdownify }}</h2>
+      {% endif %}
+      {% if post.subsubtitle %}
+        <h3>{{ post.subsubtitle | markdownify }}</h3>
+      {% endif %}
+      <section class="excerpt">
+        {{ post.excerpt }}
+      </section>
+      <section class="readmore">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          (Read More)
+        </a>
+      </section>
+    </div>
+    {% if post.image %}
+      <div class="flair">
+        <div class="image">
+          <img src="{{ site.baseurl }}/assets/projects/{{ post.image }}">
+        </div>
+        {% if post.imagecaption %}
+        <div class="image-caption">
+          {{ post.imagecaption }}
+        </div>
+        {% endif %}
+      </div>
+    {% endif %}
+  </article>
+{% endfor %}

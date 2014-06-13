@@ -1,0 +1,36 @@
+---
+---
+
+@import 'colors';
+
+.post {
+  article {
+    header.post-header {
+      h1 {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 500;
+        color: desaturate($main-color, 50%);
+        margin: 0;
+        padding: 0;
+      }
+    }
+    section.post-content {
+      h1 {
+        font-weight: 500;
+        font-size: 20px;
+        margin: 30px 0 10px 0;
+      }
+      p {
+        margin: 18px 0;
+        line-height: 180%;
+      }
+      iframe {
+        display: block;
+        margin: auto;
+        padding: 10px;
+        border: 1px solid mix($page-bg, $text-color, 90%);
+        background-color: $page-bg;
+      }
+    }
+  }
+}

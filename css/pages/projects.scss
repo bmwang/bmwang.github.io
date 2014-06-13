@@ -1,0 +1,86 @@
+---
+---
+
+@import 'colors';
+
+.projects {
+  article {
+    position: relative;
+    display: flex;
+    align-items: flex-stretch;
+    .info {
+      width: 100%;
+      h1, h2, h3 {
+        p {
+          margin: 0;
+        }
+      }
+      h1 {
+        font-family: 'Helvetica', 'Open Sans', sans-serif;
+        font-weight: bold;
+        font-size: 30px;
+        margin: 0;
+        letter-spacing: -0.25px;
+        a {
+          color: $main-color;
+        }
+      }
+      h2 {
+        margin: -10px 0 0 0;
+        font-size: 18px;
+        letter-spacing: -0.4px;
+        font-weight: 300;
+        color: rgba(desaturate($text-color, 100%), 0.75);
+      }
+      h3 {
+        margin-top: -3px;
+        font-size: 14px;
+        font-weight: 300;
+        color: rgba(desaturate($text-color, 100%), 0.6);
+        a {
+          color: rgba(desaturate($link-color, 10%), 0.7);
+        }
+      }
+    }
+    .flair {
+      width: 50%;
+      margin: 0 0 0 20px;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+
+      .image {
+        flex-grow: 1;
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 0 3px $page-bg;
+        img {
+          position: absolute;
+          display: block;
+          min-width: 100%;
+          min-height: 100%;
+          z-index: 1;
+        }
+      }
+      .image-caption {
+        text-align: right;
+        font-size: 12px;
+      }
+    }
+    .excerpt {
+      margin-top: 10px;
+      letter-spacing: 0.3px;
+      p {
+        margin: 0;
+        font-size: 16px;
+      }
+    }
+    .readmore {
+      margin: 10px 0;
+      font-size: 14px;
+      a {
+        color: $link-color;
+      }
+    }
+  }
+}
