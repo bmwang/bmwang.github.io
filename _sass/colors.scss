@@ -1,2 +1,25 @@
-// @import 'colors.dark'
-@import 'colors.light'
+$color: light !default;
+
+// Light (default)
+$main-hue: 194;
+$accent-hue: 38;
+
+$page-bg: hsl(0, 0%, 92%);
+$body-bg: white;
+$text-color: hsl($main-hue, 94%, 14%);
+$main-color: hsl($main-hue, 94%, 26%);
+$link-color: hsl($main-hue, 77%, 45%);
+$accent-color: hsl($accent-hue, 100%, 68%);
+
+// Dark
+@if $color == dark {
+    $main-hue: 225 !global;
+    $accent-hue: 38 !global;
+
+    $page-bg: hsl($main-hue, 15%, 22%) !global;
+    $body-bg: hsl($main-hue, 15%, 20%) !global;
+    $text-color: hsl(0, 0%, 90%) !global;
+    $main-color: white !global;
+    $link-color: hsl($main-hue, 77%, 85%) !global;
+    $accent-color: hsl($accent-hue, 100%, 68%) !global;
+}
