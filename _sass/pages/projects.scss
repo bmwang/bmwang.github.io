@@ -51,7 +51,9 @@
         flex-grow: 1;
         position: relative;
         overflow: hidden;
-        box-shadow: 0 0 15px rgba($text-color, 0.5);
+        box-shadow: 0 0 5px rgba($text-color, 0.5),
+                    0 0 30px rgba($text-color, 0.2),
+                    0 0 15px rgba($accent-color, 0.2);
         img {
           // Center
           position: absolute;

@@ -8,9 +8,13 @@ style: projects
   <article>
     <div class="info">
       <h1>
+        {% if post.stub == nil %}
         <a href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
         </a>
+        {% else %}
+          {{ post.title }}
+        {% endif %}
       </h1>
       {% if post.subtitle %}
         <h2>{{ post.subtitle | markdownify }}</h2>
@@ -21,11 +25,15 @@ style: projects
       <section class="excerpt">
         {{ post.excerpt }}
       </section>
-      <section class="readmore">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          (Read More)
-        </a>
-      </section>
+        <section class="readmore">
+          {% if post.stub %}
+            {{ post.stub | markdownify }}
+          {% else %} 
+            <a href="{{ post.url | prepend: site.baseurl }}">
+              (Read More)
+            </a>
+          {% endif %}
+        </section>
     </div>
     {% if post.image %}
       <div class="flair">

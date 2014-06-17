@@ -2,7 +2,7 @@
 layout: post
 category: projects
 poststyle: class-projects
-title: Class Projects
+title: Minor Class Projects
 image: class_projects.png
 subtitle: UC Berkeley
 subsubtitle:  Projects as a Student (2009-2013)
@@ -10,6 +10,11 @@ subsubtitle:  Projects as a Student (2009-2013)
 While I was a student at UC Berkeley, my favorite classes were projects in 
 Computer Science. Many of the projects were open-ended, so I was able to 
 explore something topics that interested me.
+
+My larger projects have their own project page.
+This is a collection of my smaller open-ended projects. (I didn't include
+projects with specific specifications, as my projects look like everyone
+else's in the class.)
 
 # CS184
 
@@ -22,9 +27,6 @@ introduction to computer graphics. We were required to
 build a portfolio showcasing our projects over the semester. You can view
 the archived portfolio [here](http://static.brandonwang.net/class/cs184/).
 
-My final project, Inertia, has its own page.
-
-
 # CS264
 
 ## Spring 2011 (2nd year)
@@ -34,19 +36,6 @@ My final project, Inertia, has its own page.
 CS264, Programming Languages, taught by Ras Bodik, was my first gradaute-level
 class. As an open ended class final project, Kaushik Iyer and I created a 
 visual Haskell editor, named HasView.
-
-Initially inspired by a visualization of an implementation of 
-[doubly linked lists in Haskell](http://www.haskell.org/haskellwiki/Tying_the_Knot), 
-and the difficulty of reading the code without a dataflow picture, I was 
-convinced that an illustration of Haskell would greatly help in understanding
-them.
-
-Kaushik and I came across John Reekie's
-[Visual Haskell](http://ptolemy.eecs.berkeley.edu/~johnr/papers/visual.html).
-Visual Haskell takes in a Haskell program and displays an illustration of its
-dataflow. Inspired, we set to create the reverse of Visual Haskell, a 
-Visual Haskell editor - one where users would input a picture, and we would
-generate the Haskell resulting from it.
 
 Our survey of the CS264 class found that advanced programmers generally 
 disliked visual languages for the unneeded additional actions required to 
@@ -70,32 +59,6 @@ variable bindings, assigning names to each intermediate output.
 
 Our class report and poster are available, as well as a very hacky GitHub
 repository.
-
-
-# CS285
-
-## Fall 2011 (3rd year)
-
-### Taught by Carlo Sequin. Worked with Andrew Lee.
-
-CS285, Solid Modeling, taught by Carlo Sequin, focused on procedurally
-creating 3D models with the goal of 3D printing them.
-
-## pentafoil tangle
-![Pentafoil](http://s3.brandonwang.net/class/cs285/as1/images/tangle000001.png)
-
-[Procedural Pentafoil Knot](http://s3.brandonwang.net/class/cs285/as1/index.html)
-
-## procedural pac-man ghost
-![Ghost](http://s3.brandonwang.net/class/cs285/as6/images/finalbell.jpg)
-
-[Procedural Pac-man Ghost](http://s3.brandonwang.net/class/cs285/as6/index.html)
-
-## knotty
-![Knotty](http://s3.brandonwang.net/projects/knotty/images/dragonknot-page.png)
-
-Knotty (Final Project)
-
 
 # CS280
 
@@ -142,21 +105,3 @@ tessellation shaders.
 
 My [class report](http://www.eecs.berkeley.edu/~sequin/CS284/PROJ_12/Brandon/Smooth%20GPU%20Tessellation.pdf) is available online.
 
-
-# CNM 190
- 
-## Fall 2012 - Spring 2013 (4th year/M.S.)
-
-### Taught by Dan Garcia and Peter Tsoi. Worked with the Paper Magician team.
-
-CNM 190, Advanced Digital Animation, taught by Dan Garcia, was a more 
-art-driven class, focused on creating an animated short over the course of
-two semesters.
-
-I, along with Wesley Fuh, SiSi Shan, Ben Wu, Juan de Joya, Jessica Miller,
-Jason Zhou, Jessica Tran, Katrina Chang, Brian Chan, and Michelle Fang worked
-together to create Paper Magicion.
-
-<iframe width="900" height="507" 
-    src="//www.youtube.com/embed/OLvQDCJyGcA"
-    frameborder="0" allowfullscreen></iframe>
