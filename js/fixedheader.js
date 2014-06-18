@@ -8,7 +8,7 @@ $(document).ready(function() {
     .addClass('fixed-page-header')
     .insertAfter(header);
 
-  var targetPos = 100;
+  var targetPos = 200;
 
   $(document).scroll(function() {
     var scrollPos = $(document).scrollTop();
@@ -19,7 +19,7 @@ $(document).ready(function() {
         progress = 0;
       }
       // Simple cubic ease
-      var progress = progress * progress * progress;
+      var progress = progress * (progress - 0.3) ;
       fixedHeader.css({opacity: progress});
     } else {
       fixedHeader.css({opacity: 1});

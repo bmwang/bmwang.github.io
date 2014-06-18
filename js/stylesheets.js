@@ -29,14 +29,14 @@ if(document.cookie) {
 $(document).ready(function() {
   // Function to swap stylesheets
   function swapColor(color) {
-    $('body').fadeOut( function() {
+    $('body').fadeOut(500, 'linear', function() {
         $('#style').attr('href', '/css/'+color+'.css');
         var date = new Date();
         var days = 30;
         date.setTime(date.getTime()+(days*24*60*60*1000));
         document.cookie = 'color='+color+'; path=/; expires='+date.toGMTString();
         $('.switch-css').toggle();
-        $(this).fadeIn();
+        $(this).fadeIn(500, 'linear');
     } );
   };
 
