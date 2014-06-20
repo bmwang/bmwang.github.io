@@ -65,6 +65,7 @@ header.page-header {
       color: rgba(desaturate($main-color, 20%), 0.75);
       text-decoration: none;
       text-transform: lowercase;
+      padding: 0 10px 0 0;
 
       &:visited {
         color: rgba(desaturate($main-color, 20%), 0.65);
