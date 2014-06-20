@@ -1,7 +1,7 @@
 ---
 layout: post
 category: projects
-title: Super Icosahodron
+title: Super Icosahedron
 image: super_icosahedron.png
 subtitle: 24-hour Hackathon WebGL Game
 subsubtitle: Stanford/UC Berkeley Big Hack 2013 with Michelle Bu
@@ -22,4 +22,4 @@ on adding fun additions for most of the hackathon.
 I ended up adding a bunch of screen-space shaders/filters, including a 
 quickly hacked together 
 [god ray](http://en.wikipedia.org/wiki/Crepuscular_rays)
-shader
+shader.
