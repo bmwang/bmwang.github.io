@@ -2,10 +2,11 @@
 layout: default
 title: Resume
 permalink: /resume/
+style: resume
 ---
 
 # Education
-- # Master of Science, Comupter Science
+- # Master of Science, Computer Science
 
   ## University of California, Berkeley
 
@@ -13,7 +14,7 @@ permalink: /resume/
 
   - Focus: Computer Graphics
   - Advisor: Ravi Ramamoorthi
-  - Papers accepted to SIGGRAPH 2013, SIGGRAPH Asia 2012
+  - Papers presented at SIGGRAPH 2013, SIGGRAPH Asia 2012
 
 - # Bachelor of Science, Electrical and Computer Engineering
 
@@ -30,17 +31,23 @@ permalink: /resume/
 
   ## SIGGRAPH 2013
 
-  ### Soham Mehta, Brandon Wang, Ravi Ramamoorthi, Fredo Durand
+  ### August 2013
+
+  #### Soham Mehta, Brandon Wang, Ravi Ramamoorthi, Fredo Durand
 - # Axis-Aligned Filtering for Interactive Sampled Soft Shadows
 
   ## SIGGRAPH Asia 2012
 
-  ### Soham Mehta, Brandon Wang, Ravi Ramamoorthi
+  ### August 2012
+
+  #### Soham Mehta, Brandon Wang, Ravi Ramamoorthi
 - # “Generating Chinese Knots from Arbitrary Shapes
 
   ## Bridges 2012
 
-  ### Andrew Lee, Brandon Wang
+  ### July 2012
+
+  #### Andrew Lee, Brandon Wang
 
 # Experience
 - # Graphics Software Engineer
@@ -105,15 +112,28 @@ permalink: /resume/
     organizations.
 
 # Skills
-- # Programming Languages and Frameworks 
-
-  C/C++, GLSL, HTML, Hadoop MapReduce, Haskell, Java, JavaScript, 
-  Lisp, MySQL, Node.js, OpenGL, OpenGL ES, PHP, Python, Qt, RISC, Ruby, 
-  Ruby on Rails, Scheme, and Tk.
+- 0. C
+  0. C++
+  0. GLSL
+  0. HTML/CSS
+  0. Haskell
+  0. Java
+  0. JavaScript
+  0. Lisp
+  0. MATLAB
+  0. OSL
+  0. PHP
+  0. Python
+  0. Ruby
+  0. Scheme
+- 0. RISC
+  0. MySQL
+  0. Node.js
+  0. OpenGL
+  0. OpenGL ES
+  0. Qt
+  0. Hadoop MapReduce
+  0. Ruby on Rails
+  0. Tk
 
 - Inactive Top Secret/Special Intelligence Clearance
-
-# Activities/Honors
-- Siebel Scholar - Class of 2013
-- Eta Kappa Nu – Electrical Engineering and Computer Science Honor Society - Tutoring Officer
-- Tau Beta Pi – Engineering Honor Society - Information Technology Officer
