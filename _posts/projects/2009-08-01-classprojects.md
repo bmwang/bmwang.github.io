@@ -4,17 +4,16 @@ category: projects
 poststyle: class-projects
 title: Minor Class Projects
 image: class_projects.png
-subtitle: UC Berkeley
-subsubtitle:  Projects as a Student (2009-2013)
+subtitle: Student Projects
+subsubtitle: At [UC Berkeley](http://www.berkeley.edu/index.html) (2009-2013)
 ---
-While I was a student at UC Berkeley, my favorite classes were projects in 
-Computer Science. Many of the projects were open-ended, so I was able to 
-explore something topics that interested me.
+While I was a student at UC Berkeley, my favorite classes were project-based
+Computer Science classes. Many of the projects were open-ended, so I was able
+to explore some interesting topics.
 
-My larger projects have their own project page.
-This is a collection of my smaller open-ended projects. (I didn't include
-projects with specific specifications, as my projects look like everyone
-else's in the class.)
+My larger projects have their own [project pages](/projects). This is a collection of my 
+smaller open-ended projects. (I didn't include projects with specific
+specifications, as my projects look like everyone else's in the class.)
 
 # CS184
 
@@ -57,8 +56,26 @@ specifying the input and output variables. We serialize the logic by
 determining an order of execution within each enclosure. We then resolve the 
 variable bindings, assigning names to each intermediate output.
 
-Our class report and poster are available, as well as a very hacky GitHub
-repository.
+Our class [report](http://s3.brandonwang.net/projects/hasview/HasView.pdf)
+and [poster](http://s3.brandonwang.net/projects/hasview/poster.pdf) are 
+available, as well as a very hacky 
+[GitHub repository](https://github.com/bmwang/hasview).
+
+# CS285
+
+## Fall 2011 (3rd year)
+
+CS285, taught by Carlo Sequin, was a course about solid modeling. This class
+emphasized procedural mathematical geometric objects, with the intent of
+fabrication.
+
+![Pentafoil Knot](http://s3.brandonwang.net/class/cs285/as1/images/tangle000001.png)
+
+[Pentafoil Knot Report](http://s3.brandonwang.net/class/cs285/as1/index.html)
+
+![Pac-man Ghost](http://s3.brandonwang.net/class/cs285/as6/images/finalbell.jpg)
+
+[Procedural Pac-man Ghost](http://s3.brandonwang.net.s3-us-west-1.amazonaws.com/class/cs285/as6/index.html)
 
 # CS280
 
@@ -81,13 +98,9 @@ Our class report is available online.
 ### Taught by James O'Brien. Worked with Grace Lee.
 
 CS283, Advanced Computer Graphics, was taught by James O'Brien.
-Grace Lee and I created a FEM cloth simulation.
-
-<iframe width="900" height="720" src="http://www.youtube.com/embed/TwSDeplWn2Y"
-    frameborder="0" allowfullscreen="allowfullscren">
-</iframe>
-
-Our [class report](http://s3.brandonwang.net.s3-us-west-1.amazonaws.com/class/cs283/hw1/index.html) is available online.
+Grace Lee and I created a FEM cloth simulation. Our 
+[class report](http://s3.brandonwang.net.s3-us-west-1.amazonaws.com/class/cs283/hw1/index.html)
+is available online.
 
 
 # CS284

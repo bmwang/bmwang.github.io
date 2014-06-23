@@ -3,8 +3,8 @@ layout: post
 category: projects
 title: Bombermen
 image: bombermen.png
-subtitle: Yahoo HackU 2011 Hackathon Project
-subsubtitle: With [Amber Feng](http://www.amberfeng.com/) and [Allen Chen](http://allenschen.com/)
+subtitle: Real-time multiplayer Bomberman clone
+subsubtitle: Hackathon Project With [Amber Feng](http://www.amberfeng.com/) and [Allen Chen](http://allenschen.com/) (2011)
 ---
 Bombermen is a real-time multiplayer browser-based clone of
 [Bomberman](http://en.wikipedia.org/wiki/Bomberman). Amber Feng, Allen Chen, 
@@ -19,7 +19,7 @@ based off of the classic game,
 
 #Video of Gameplay
 
-<iframe src="http://player.vimeo.com/video/30568650" width="500" height="419" frameborder="0" allowFullScreen="allowFullScreen">
+<iframe src="http://player.vimeo.com/video/30568650" width="900" height="754" frameborder="0" allowFullScreen="allowFullScreen">
 </iframe> 
 
 #Background

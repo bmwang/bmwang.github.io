@@ -4,7 +4,9 @@ category: projects
 title: Axis-Aligned Filtering
 image: axis_aligned_filtering.png
 subtitle: SIGGRAPH 2013, SIGGRAPH Asia 2012 Paper, M.S. Thesis
-subsubtitle: With Soham Mehta, Ravi Ramamoorthi, and Fredo Durand
+subsubtitle: With [Soham Mehta](http://www.eecs.berkeley.edu/~sohamum/),
+  [Ravi Ramamoorthi](http://www.cs.berkeley.edu/~ravir/), 
+  and [Fredo Durand](http://people.csail.mit.edu/fredo/)
 ---
 In the second half of my time as a UC Berkeley student, I co-authored two 
 papers in ACM. We created a fast image-space filter to reduce noise from

@@ -2,17 +2,28 @@
 layout: post
 category: projects
 title: Paper Magician
-subtitle: CNM190 Digital Short
+subtitle: Digital Short
+subsubtitle: Class Project with the 
+    [Paper Magician Team](http://cloud.cs.berkeley.edu/~magician/?page_id=19)
+    (2013)
 image: papermagician.png
-subsubtutle: With the Paper Magician team.
 ---
 CNM 190, Advanced Digital Animation, taught by Dan Garcia, was a more 
 art-driven class, focused on creating an animated short over the course of
 two semesters.
 
-The class was split in to two teams. I, along with Wesley Fuh, SiSi Shan,
-Ben Wu, Juan de Joya, Jessica Miller, Jason Zhou, Jessica Tran, Katrina Chang, 
-Brian Chan, and Michelle Fang worked together to create Paper Magicion.
+The class was split in to two teams. I, along with 
+[Wesley Fuh](http://fuhportfolio.weebly.com/), 
+[SiSi Shan](http://cloud.cs.berkeley.edu/~magician/?author=3),
+[Ben Wu](http://benwu.net/), 
+[Juan de Joya](http://juandejoya.tumblr.com/),
+[Jessica Miller](http://cloud.cs.berkeley.edu/~magician/?author=10),
+[Jason Zhou](http://cloud.cs.berkeley.edu/~magician/?author=11), 
+[Jessica Tran](http://cloud.cs.berkeley.edu/~magician/?author=9), 
+[Katrina Chang](http://cloud.cs.berkeley.edu/~magician/?author=12),
+[Brian Chan](http://cloud.cs.berkeley.edu/~magician/?author=5), 
+and [Michelle Fang](http://michellelovesart.wordpress.com/)
+worked together to create Paper Magicion.
 
 <iframe width="900" height="507" 
     src="//www.youtube.com/embed/OLvQDCJyGcA"
