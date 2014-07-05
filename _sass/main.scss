@@ -106,6 +106,7 @@ main {
 
   .video {
     width: 900px;
+    height: 500px;
   }
 }
 
@@ -286,3 +287,19 @@ main {
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
+// Phones
+@media screen and (max-device-width: 640px){
+  main {
+    padding: 10px 7px;
+    .video {
+      width: 80%;
+      height: auto;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+  header.page-header {
+    padding: 0 10px 15px 10px;
+  }
+}

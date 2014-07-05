@@ -36,3 +36,9 @@ header.fixed-page-header {
   }
 }
  
+ @media screen and (max-device-width: 640px) {
+   .switch-css {
+     position: absolute;
+     z-index: 2;
+   }
+ }

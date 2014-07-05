@@ -86,3 +86,33 @@
     }
   }
 }
+
+// Phones
+@media screen and (max-device-width: 640px) {
+  main.projects {
+    article {
+    flex-direction: column;
+      .info {
+        order: 1;
+        h1 {
+          font-size: 30px;
+        }
+        h2 {
+          font-size: 16px;
+        }
+        h3 {
+          font-size: 12px;
+        }
+      }
+      .flair {
+        order: 0;
+        height: 150px;
+        width: 100%;
+        margin: 0;
+        .image {
+          box-shadow: 0 0 5px rgba($text-color, 0.2),
+        }
+      }
+    }
+  }
+}

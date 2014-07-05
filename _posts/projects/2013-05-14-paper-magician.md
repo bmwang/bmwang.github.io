@@ -25,6 +25,6 @@ The class was split in to two teams. I, along with
 and [Michelle Fang](http://michellelovesart.wordpress.com/)
 worked together to create Paper Magicion.
 
-<iframe width="900" height="507" 
+<iframe class="video" 
     src="//www.youtube.com/embed/OLvQDCJyGcA"
     frameborder="0" allowfullscreen></iframe>
