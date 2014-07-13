@@ -1,8 +1,33 @@
 @import 'colors';
 
 .post {
+  .pagebg {
+    position: fixed;
+    margin: 0 -40px;
+    bottom: 0;
+    z-index: 1;
+    width: 1000px;
+    overflow: hidden;
+    text-align: right;
+
+    .image {
+      box-shadow: inset 0px 0px 50px 20px $body-bg,
+      inset 0px 0px 100px 20px $body-bg,
+      inset 0px 0px 10px 20px $body-bg;
+      display: inline-block;
+      img {
+        z-index: -1;
+        opacity: 0.1;
+        position: relative;
+      }
+    }
+  }
   article {
     header.post-header {
+      h1, p {
+        position: relative;
+        z-index: 2;
+      }
       h1 {
         font-family: 'Open Sans', sans-serif;
         font-weight: 500;
@@ -12,6 +37,8 @@
       }
     }
     section.post-content {
+      position: relative;
+      z-index: 2;
       h1 {
         font-weight: 500;
         font-size: 20px;
@@ -30,4 +57,9 @@
       }
     }
   }
+}
+
+footer.page-footer {
+  position: relative;
+  z-index: 2;
 }
