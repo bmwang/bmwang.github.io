@@ -14,7 +14,13 @@ body {
   max-width: 1000px;
   margin: 0 auto 0 auto;
   box-shadow: 0 0 1px 0 rgba($text-color, 0.2);
-  display: flex;
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;      /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  -ms-flex-direction: column;
+  -webkit-flex-direction: column;
   flex-direction: column;
   min-height: 100%;
 }
@@ -109,6 +115,8 @@ main {
   color: $text-color;
   position: relative;
   letter-spacing: 0.25px;
+  -ms-flex-grow: 1;
+  -webkit-flex-grow: 1;
   flex-grow: 1;
 
   .video {
