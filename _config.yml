@@ -1,9 +1,9 @@
 # Site settings
-title: brandonwang.net
+title: Brandon Wang
 shorttitle: bw
 email: brandonwang@me.com
-description: "(brandon wang)"
-baseurl: ""
+description: "Graphics Programmer"
+baseurl: "/brandonwang.net"
 url: "http://brandonwang.net"
 
 # Build settings

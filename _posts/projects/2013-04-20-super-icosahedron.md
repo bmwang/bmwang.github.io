@@ -6,7 +6,12 @@ image: super_icosahedron.png
 subtitle: WebGL Game
 subsubtitle: Stanford/UC Berkeley Big Hack 2013 with 
   [Michelle Bu](http://michellebu.com/)
+excerpt: A WebGL game with some pretty effects. Created in 24 hours, because
+  Michelle and I were bored.
 ---
+
+[Live Demo](http://brandonwang.net:9005/)
+
 Michelle and I rode a bus from Berkeley to Stanford to participate in the Big
 Hack, a 24 hour hackathon. We didn't have an idea for a project when we got 
 arrived. we ended up making a WebGL muliplayer game where you avoid pillars 

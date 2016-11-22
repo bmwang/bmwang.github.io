@@ -7,7 +7,13 @@ subtitle: SIGGRAPH 2013, SIGGRAPH Asia 2012 Paper, M.S. Thesis
 subsubtitle: With [Soham Mehta](http://www.eecs.berkeley.edu/~sohamum/),
   [Ravi Ramamoorthi](http://www.cs.berkeley.edu/~ravir/), 
   and [Fredo Durand](http://people.csail.mit.edu/fredo/)
+excerpt: My research at Berkeley. We reduced noise in noisy ray-traced global illumination, in real-time.
 ---
+
+<video autoplay loop controls>
+  <source src="http://graphics.berkeley.edu/papers/Udaymehta-IPB-2013-07/video.mp4" type="video/ogg">
+</video>
+
 In the second half of my time as a UC Berkeley student, I co-authored two 
 papers in ACM. We created a fast image-space filter to reduce noise from
 ray traced diffuse interreflection (causes color bleeding) and soft shadows.

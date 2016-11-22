@@ -1,25 +1,25 @@
-$color: light !default;
+$color: strawberry-chocolate !default;
 
-// Light (default)
-$main-hue: 194;
-$accent-hue: 38;
+// Strawberry Chocolate
+$page-hue: 0;
 
-$page-bg: hsl(0, 0%, 92%);
-$body-bg: white;
-$text-color: hsl($main-hue, 94%, 14%);
-$main-color: hsl($main-hue, 94%, 26%);
-$link-color: hsl($main-hue, 77%, 45%);
-$accent-color: hsl($accent-hue, 100%, 68%);
+// Page-wide colors
+$page-bg: hsl($page-hue, 6%, 31%);
+$body-bg: hsl($page-hue, 100%, 98%);
+$text-color: hsl($page-hue, 30%, 12%);
+$link-color: hsl($page-hue, 31%, 50%);
 
-// Dark
-@if $color == dark {
-    $main-hue: 225 !global;
-    $accent-hue: 38 !global;
+$body-alt-bg: hsl($page-hue, 30%, 89%);
+$accent-color: hsl($page-hue, 76%, 71%);
 
-    $page-bg: hsl($main-hue, 15%, 22%) !global;
-    $body-bg: hsl($main-hue, 15%, 20%) !global;
-    $text-color: hsl(0, 0%, 90%) !global;
-    $main-color: white !global;
-    $link-color: hsl($main-hue, 77%, 85%) !global;
-    $accent-color: hsl($accent-hue, 100%, 68%) !global;
-}
+// Page header colors
+$page-header-color: hsl($page-hue, 3%, 89%);
+$page-header-color-sub: hsl($page-hue, 2%, 64%);
+
+// Body Header colors
+$body-header-bg: hsl($page-hue, 30%, 12%);
+$body-header-color: hsl($page-hue, 30%, 89%);
+
+// Post colors
+$post-header-bg: hsl($page-hue, 30%, 25%);
+$post-iframe-bg: hsl($page-hue, 6%, 20%);

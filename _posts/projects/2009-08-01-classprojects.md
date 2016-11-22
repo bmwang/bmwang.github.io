@@ -6,6 +6,7 @@ title: Minor Class Projects
 image: class_projects.png
 subtitle: Student Projects
 subsubtitle: At [UC Berkeley](http://www.berkeley.edu/index.html) (2009-2013)
+excerpt: Some minor, but unique projects I worked at school.
 ---
 While I was a student at UC Berkeley, my favorite classes were project-based
 Computer Science classes. Many of the projects were open-ended, so I was able

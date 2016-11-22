@@ -2,17 +2,15 @@
 layout: default
 style: post
 ---
-{% if page.image %}
-  <div class="pagebg">
-    <div class="image">
-      <img src="{{ site.baseurl }}/assets/{{ page.category }}/{{ page.image }}">
-    </div>
-  </div>
-{% endif %}
 <article {% if page.poststyle %} class="{{ page.poststyle }}" {% endif %}>
   <header class="post-header">
+    <!-- {% if page.image %} -->
+    <!--   <div class="image"> -->
+    <!--     <img src="{{ site.baseurl }}/assets/{{ page.category }}/{{ page.image }}"> -->
+    <!--   </div> -->
+    <!-- {% endif %} -->
     <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <h2 class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</h2>
   </header>
 
   <section class="post-content">

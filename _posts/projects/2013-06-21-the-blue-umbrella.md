@@ -8,8 +8,12 @@ subtitle: Pixar Short (2013)
 subsubtitle: "With 
 [The Blue Umbrella Crew](http://www.imdb.com/title/tt2616880/fullcredits)
 "
-stub: "[(Official Site)](http://www.pixar.com/short_films/Theatrical-Shorts/The-Blue-Umbrella)"
+excerpt: An urban love story. My first professional production.
 ---
+<iframe class="video"
+  src="https://www.youtube.com/embed/zdw6T3dpqgg?autoplay=1&loop=1&playlist=zdw6T3dpqgg"
+  frameborder="0"
+  allowfullscreen></iframe>
 
 The Blue Umbrella was the the first production I worked on at Pixar. I 
 worked as an intern on development and support of a new lighting tool.
