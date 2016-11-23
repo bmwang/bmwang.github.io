@@ -93,6 +93,7 @@ style: resume
   #### January 2012 - May 2013
 
   - Instructor for UC Berkeley's undergraduate course in Computer Graphics.
+  - Received an Outstanding Graduate Student Instructor award.
 
 - ## Software Engineer Intern
 

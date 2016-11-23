@@ -2,10 +2,9 @@
 layout: post
 category: projects
 title: The Good Dinosaur
-image: blueumbrella.png
+image: thegooddinosaur.png
 imagecaption: "&copy; 2015 Disney/Pixar"
-subtitle: Pixar Feature (2015)
-subsubtitle: "With 
+subtitle: "Pixar Feature with 
 [The Good Dinosaur Crew](http://www.imdb.com/title/tt1979388/fullcredits)
 "
 excerpt: A dinosaur's journey through breathtaking CG wilderness. It was pretty.

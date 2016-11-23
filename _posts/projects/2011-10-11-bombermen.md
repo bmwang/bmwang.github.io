@@ -3,9 +3,8 @@ layout: post
 category: projects
 title: Bombermen
 image: bombermen.png
-subtitle: Real-time multiplayer Bomberman clone
-subsubtitle: Hackathon Project With [Amber Feng](http://www.amberfeng.com/) and [Allen Chen](http://allenschen.com/) (2011)
-excerpt: A multiplayer Bomberman clone. To learn WebGL and node.js.
+subtitle: With [Amber Feng](http://www.amberfeng.com/) and [Allen Chen](http://allenschen.com/)
+excerpt: A multiplayer Bomberman WebGL clone. To learn WebGL and node.js.
 ---
 <iframe src="http://player.vimeo.com/video/30568650?loop=1&autoplay=1" width="900" height="754" frameborder="0" allowFullScreen="allowFullScreen">
 </iframe> 

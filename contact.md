@@ -5,7 +5,9 @@ permalink: /contact/
 style: contact
 ---
 
-# Hi.
+![portrait]({{site.baseurl}}/assets/portrait.png)
+
+# Hi
 
 Feel free to say hi back.
 
@@ -16,4 +18,3 @@ Alternatively, poke me through any of these other mediums:
 - [GitHub](https://github.com/bmwang)
 - [Facebook](https://www.facebook.com/brandonmwang)
 - [LinkedIn](https://www.linkedin.com/profile/view?id=78422459)
-- [IMDb](http://www.imdb.com/name/nm6033325)

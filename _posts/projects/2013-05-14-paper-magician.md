@@ -2,12 +2,10 @@
 layout: post
 category: projects
 title: Paper Magician
-subtitle: Digital Short
-subsubtitle: Class Project with the 
-    [Paper Magician Team](http://cloud.cs.berkeley.edu/~magician/?page_id=19)
-    (2013)
+subtitle: "Digital Short Class Project with the 
+    [Paper Magician Team](http://cloud.cs.berkeley.edu/~magician/?page_id=19)"
 image: papermagician.png
-excerpt: An animation project from my final year of Berkeley.
+excerpt: An animation project from my final year at Berkeley.
 ---
 <iframe class="video" 
     src="//www.youtube.com/embed/OLvQDCJyGcA?autoplay=1&loop=1&playlist=OLvQDCJyGcA"

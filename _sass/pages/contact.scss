@@ -1,6 +1,14 @@
 .contact {
   padding: 10px 40px;
 
+  img {
+    float: left;
+    height: 30%;
+    width: 30%;
+    margin: 10px 50px 20px 0;
+    border: 5px solid $accent-color;
+  }
+
   h1 {
     font-size: 32px;
     font-weight: 300;
@@ -12,5 +20,19 @@
     margin: 0;
     font-size: 20px;
     font-weight: 300;
+  }
+
+  li {
+    list-style: none;
+  }
+}
+
+@media screen and (max-device-width: 640px) {
+  .contact {
+    padding: 0 5px;
+    img {
+      float: right;
+      margin: 0;
+    }
   }
 }

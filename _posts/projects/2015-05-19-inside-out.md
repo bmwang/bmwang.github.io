@@ -2,10 +2,9 @@
 layout: post
 category: projects
 title: Inside Out
-image: blueumbrella.png
+image: insideout.png
 imagecaption: "&copy; 2015 Disney/Pixar"
-subtitle: Pixar Feature (2015)
-subsubtitle: "With 
+subtitle: "Pixar Feature with 
 [The Inside Out Crew](http://www.imdb.com/title/tt2096673/fullcredits)
 "
 excerpt: An emotional story about emotions. I worked on something that won an

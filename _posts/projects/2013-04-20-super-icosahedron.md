@@ -3,14 +3,24 @@ layout: post
 category: projects
 title: Super Icosahedron
 image: super_icosahedron.png
-subtitle: WebGL Game
-subsubtitle: Stanford/UC Berkeley Big Hack 2013 with 
+subtitle: WebGL Hackathon Game with
   [Michelle Bu](http://michellebu.com/)
 excerpt: A WebGL game with some pretty effects. Created in 24 hours, because
   Michelle and I were bored.
 ---
 
-[Live Demo](http://brandonwang.net:9005/)
+<iframe src="http://brandonwang.net:9005"
+  frameborder="0">
+</iframe>
+
+<!-- <iframe class="video"
+  src="https://www.youtube.com/embed/uKJpNebpm2Q?autoplay=1&loop=1&playlist=uKJpNebpm2Q"
+  frameborder="0"
+  allowfullscreen></iframe> -->
+
+[Live Demo](http://brandonwang.net:9005/) (Sorry, there's no mute button.)
+
+[Recorded gameplay](https://www.youtube.com/watch?v=uKJpNebpm2Q)
 
 Michelle and I rode a bus from Berkeley to Stanford to participate in the Big
 Hack, a 24 hour hackathon. We didn't have an idea for a project when we got 

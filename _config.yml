@@ -5,6 +5,7 @@ email: brandonwang@me.com
 description: "Graphics Programmer"
 baseurl: "/brandonwang.net"
 url: "http://brandonwang.net"
+future: true
 
 # Build settings
 markdown: kramdown

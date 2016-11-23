@@ -50,6 +50,18 @@
           color: darken($accent-color, 30%);
         }
       }
+      h4 {
+        font-family: 'Roboto', sans-serif;
+        text-transform: lowercase;
+        margin: 1px 0 0 0;
+        font-size: 10px;
+        font-weight: 400;
+        letter-spacing: -0.4px;
+        position: absolute;
+        top: 22px;
+        right: 5px;
+        color: rgba($body-header-color, 0.75);
+      }
     }
     .flair {
       order: 0;
@@ -57,7 +69,7 @@
       position: relative;
       display: flex;
       flex-direction: column;
-      background-color: $body-alt-bg;
+      background-color: mix($body-header-bg, $body-header-color, 50%);
 
       .image {
         flex-grow: 1;
@@ -87,7 +99,7 @@
     }
     .excerpt {
       letter-spacing: 0.3px;
-      margin: 10px 20px 0 20px;
+      margin: 10px 20px 0 10px;
       p {
         font-family: 'Open Sans', sans-serif;
         font-size: 12px;
@@ -95,7 +107,7 @@
       }
     }
     .readmore {
-      margin: 0 0 5px 20px;
+      margin: 0 0 5px 15px;
       font-size: 12px;
       a {
         color: $link-color;
@@ -109,6 +121,8 @@
   main.projects {
     article {
     flex-direction: column;
+    padding: 0 0 20px 0;
+    border-top: 5px solid $body-header-bg;
       .info {
         order: 1;
         h1 {
@@ -121,12 +135,18 @@
           font-size: 12px;
         }
       }
+      .image {
+        background-color: $body-header-bg;
+      }
       .flair {
         order: 0;
         height: 150px;
         width: 100%;
         margin: 0;
         background-color: $body-alt-bg;
+      }
+      .excerpt, .readmore {
+        margin-left: 5px;
       }
     }
   }
