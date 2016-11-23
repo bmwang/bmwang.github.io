@@ -4,10 +4,12 @@ category: projects
 title: Finding Dory
 image: findingdory.png
 imagecaption: "&copy; 2016 Disney/Pixar"
-subtitle: "Pixar Feature with 
-[The Finding Dory Crew](http://www.imdb.com/title/tt2277860/fullcredits)
-"
-excerpt: A forgetful fish's journey to discover her family.
+subtitle: Pixar Feature with 
+  [The Finding Dory Crew](http://www.imdb.com/title/tt2277860/fullcredits)
+excerpt: "A forgetful fish's journey to discover her family.
+
+
+I worked on shading."
 ---
 <iframe class="video"
   src="https://www.youtube.com/embed/3JNLwlcPBPI?autoplay=1&loop=1&playlist=3JNLwlcPBPI"

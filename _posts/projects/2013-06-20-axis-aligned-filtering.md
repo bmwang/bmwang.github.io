@@ -4,9 +4,12 @@ category: projects
 title: Axis-Aligned Filtering
 image: axis_aligned_filtering.png
 subtitle: SIGGRAPH 2013, SIGGRAPH Asia 2012 Paper, M.S. Thesis
-excerpt: My research at Berkeley. Presented at SIGGRAPH 2013, SIGGRAPH Asia 2012, and in my M.S. Thesis. We reduced noise in noisy ray-traced global illumination, in real-time. With [Soham Mehta](http://www.eecs.berkeley.edu/~sohamum/),
+excerpt: "My research at Berkeley. Presented at SIGGRAPH 2013, SIGGRAPH Asia 2012, and in my M.S. Thesis. We reduced noise in noisy ray-traced global illumination, in real-time. With [Soham Mehta](http://www.eecs.berkeley.edu/~sohamum/),
   [Ravi Ramamoorthi](http://www.cs.berkeley.edu/~ravir/), 
   and [Fredo Durand](http://people.csail.mit.edu/fredo/)
+
+
+I worked on everything."
 
 ---
 

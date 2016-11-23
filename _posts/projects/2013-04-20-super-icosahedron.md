@@ -5,8 +5,11 @@ title: Super Icosahedron
 image: super_icosahedron.png
 subtitle: WebGL Hackathon Game with
   [Michelle Bu](http://michellebu.com/)
-excerpt: A WebGL game with some pretty effects. Created in 24 hours, because
-  Michelle and I were bored.
+excerpt: "A WebGL game with some pretty effects. Created in 24 hours, because
+Michelle and I were bored.
+
+
+I worked on everything."
 ---
 
 <iframe src="http://brandonwang.net:9005"

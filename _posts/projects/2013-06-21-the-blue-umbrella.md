@@ -4,10 +4,12 @@ category: projects
 title: The Blue Umbrella
 image: blueumbrella.png
 imagecaption: "&copy; 2013 Disney/Pixar"
-subtitle: "Pixar Short (2013) with 
-[The Blue Umbrella Crew](http://www.imdb.com/title/tt2616880/fullcredits)
-"
-excerpt: An urban love story. My first professional production.
+subtitle: Pixar Short (2013) with 
+  [The Blue Umbrella Crew](http://www.imdb.com/title/tt2616880/fullcredits)
+excerpt: "An urban love story.
+
+
+My first professional production. I worked on lighting."
 ---
 <iframe class="video"
   src="https://www.youtube.com/embed/zdw6T3dpqgg?autoplay=1&loop=1&playlist=zdw6T3dpqgg"

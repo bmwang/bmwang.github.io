@@ -5,7 +5,10 @@ title: Paper Magician
 subtitle: "Digital Short Class Project with the 
     [Paper Magician Team](http://cloud.cs.berkeley.edu/~magician/?page_id=19)"
 image: papermagician.png
-excerpt: An animation project from my final year at Berkeley.
+excerpt: "An animation project from my final year at Berkeley.
+
+
+I worked on shading and created a rendering pipeline."
 ---
 <iframe class="video" 
     src="//www.youtube.com/embed/OLvQDCJyGcA?autoplay=1&loop=1&playlist=OLvQDCJyGcA"
