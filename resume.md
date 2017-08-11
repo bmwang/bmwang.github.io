@@ -27,11 +27,18 @@ style: resume
 
 
 # Experience
+- ## Software Engineer
+
+  ### Riot Games
+
+  #### March 2017 - Present
+  - Working on an unannounced game.
+
 - ## Technical Director / Graphics Software Engineer
 
   ### Pixar Animaton Studios
 
-  #### June 2013 - Present
+  #### June 2013 - February 2017
   - Writing shading and surfacing software.
   - **Coco** (2017)
     - Lead developer on Flow, a real-time GPU node-based shading authoring application.
